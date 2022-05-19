@@ -1,3 +1,2 @@
-# exclude everything except alx-pre_course
-/*
-!/alx-pre_course
+# exclude everything ~
+~
